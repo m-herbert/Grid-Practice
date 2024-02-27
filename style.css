@@ -1,0 +1,31 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+  .r1 {
+   text-align: center;
+   background-color: rgb(69, 129, 163);
+   padding: 2%;
+}
+
+  .r2 {
+    text-align: center;
+    background-color: rgb(125, 210, 125);
+   padding: 2%
+}
+
+   .r3 {
+    text-align: center;
+    background-color: rgb(167, 59, 209);
+    padding: 2%;
+}
+   
+  
+  h4 {
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
+  }
